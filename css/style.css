@@ -1,6 +1,4 @@
-* {
-    font-family: Slabo 27px;
-}
+
 
 body {
     background: #DED9E2;
@@ -94,14 +92,14 @@ a {
 
 .grid_block {
     color: black;
-    font-size: 14;
+    font-size: 14px;
     background: #C4C4C4;
     width: 33%;
 }
 
 .center_grid_block {
     color: black;
-    font-size: 14;
+    font-size: 14px;
     background: #C4C4C4;
     width: 33%;
     margin-right: 0.25%;
